@@ -1,0 +1,22 @@
+{
+  "generated": "2026-09-17",
+  "budget_rows_compared": 19089,
+  "local_entity_year_rows_compared": 18839,
+  "gore_year_rows_compared": 250,
+  "entity_or_gore_mismatches": 0,
+  "first_mismatches": [],
+  "local_department_aggregate_rows_compared": 250,
+  "local_department_aggregate_mismatches": 0,
+  "first_aggregate_mismatches": [],
+  "portal_validation_avance": {
+    "OK": 19089
+  },
+  "control_2026_historico_records": 26,
+  "control_2026_historico_incomplete": [],
+  "control_funcion_redes_records": 590,
+  "control_funcion_redes_incomplete": [],
+  "region_silhouette_assets": 26,
+  "note_projects": "Detalle de funciones/proyectos visible solo para entidades REDES y 2026; los históricos y totales se validan contra las salidas Selenium.",
+  "control_proyectos_redes_records": 590,
+  "control_proyectos_redes_incomplete": []
+}

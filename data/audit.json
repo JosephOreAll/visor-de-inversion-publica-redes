@@ -1,0 +1,45 @@
+{
+  "generated": "2026-09-16",
+  "budget_source": {
+    "historical_csv_rows": 17172,
+    "current_2026_rows": 1917
+  },
+  "historical_excel_crosscheck": {
+    "workbook": "MEF_HISTORICO_2017_2025.xlsx",
+    "worksheet": "HISTORICO_2017_2025",
+    "excel_data_rows": 17172,
+    "csv_data_rows": 17172,
+    "cell_differences": 0,
+    "first_difference": null
+  },
+  "validation_avance": {
+    "historical": {
+      "OK": 17172
+    },
+    "current_2026": {
+      "OK": 1917
+    }
+  },
+  "dashboard_budget_crosscheck": {
+    "gore_entity_years_compared": 250,
+    "local_entity_years_compared": 18839,
+    "errors": 0,
+    "first_errors": []
+  },
+  "manual_project_exports": {
+    "page_rows": {
+      "PROYECTOS_ACORA.xlsx": 69,
+      "PROYECTOS_CAPACHICA.xlsx": 15,
+      "PROYECTOS_SANMARCOS_1.xlsx": 400,
+      "PROYECTOS_SANMARCOS_2.xlsx": 400,
+      "PROYECTOS_SANMARCOS_3.xlsx": 400,
+      "PROYECTOS_SANMARCOS_4.xlsx": 56
+    },
+    "san_marcos_total": 1256,
+    "note": "Estos archivos corresponden a controles manuales de proyectos fuera del detalle REDES mostrado. Los totales e históricos del dashboard provienen de las salidas validadas de Selenium; el detalle de proyectos visible se limita a entidades REDES."
+  },
+  "geo": {
+    "primary": "Rodasluis/Peru-maps v1.0.0 (cartografía de origen INEI, simplificada para web)",
+    "fallback": "siluetas locales proporcionadas por el usuario"
+  }
+}
